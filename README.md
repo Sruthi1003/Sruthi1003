@@ -14,6 +14,5 @@ I'm a **Java Developer** with over 7 years of experience specializing in **Java 
 I am currently learning more about **Big Data** technologies like **Apache Kafka**, **Apache Flink**, and **Apache Spark**, and improving my skills with **Kubernetes**, **Docker**, and **Helm**. Additionally, I'm exploring **Machine Learning** frameworks such as **TensorFlow**, **Keras**, and **PyTorch**. I'm also diving deeper into **Cloud Platforms** like **AWS**, **Google Cloud Platform**, and **Azure**, focusing on **serverless architectures** and **infrastructure automation** with **CloudFormation** and **Terraform**.
 
 ## 📫 Let's Connect
-- [LinkedIn](your-linkedin-profile)
-- [Resume](your-resume-link)
-- [Portfolio](your-portfolio-link)
+- [LinkedIn] www.linkedin.com/in/sruthi-s-304618313
+
