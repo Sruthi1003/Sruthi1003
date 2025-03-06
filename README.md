@@ -4,10 +4,10 @@
 I'm a **Java Developer** with over 7 years of experience specializing in **Java 8/11**, **Spring Boot**, and **Microservices**. Currently, I'm pursuing my **Master’s in Computer Science** at the University of North Texas. I am passionate about building scalable, high-performance applications and working with cloud technologies, particularly AWS and developing Java Applications.
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Java 8/11, SQL, Python (for Data Engineering tasks), Kotlin
+- **Languages**: Java 8/11, SQL, Python (for Data Engineering tasks)
 - **Frameworks**: Spring Boot, Spring Cloud, Hibernate, Microservices
 - **Cloud**: AWS (Certified Developer – Associate)
-- **Databases**: MySQL, PostgreSQL, MongoDB, Redis
+- **Databases**: MySQL, PostgreSQL, MongoDB
 - **DevOps**: Docker, Kubernetes, Jenkins, Terraform
 
 ## 📚 Learning & Development
