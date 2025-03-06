@@ -1,7 +1,7 @@
 # Hi, I'm Laxmi Sruthi Susarla 👋
 
 ## 💫 About Me
-I'm a **Java Developer** with over 7 years of experience specializing in **Java 8/11**, **Spring Boot**, and **Microservices**. Currently, I'm pursuing my **Master’s in Computer Science** at the University of North Texas. I am passionate about building scalable, high-performance applications and working with cloud technologies, particularly AWS and developing Java Applications.
+I'm a **Java Developer** with over 7 years of experience specializing in **Java 8/11**, **Spring Boot**, and **Microservices**. Currently, I'm working at **PepsiCo** with a  **Master’s in Computer Science** at the University of North Texas. I am passionate about building scalable, high-performance applications and working with cloud technologies, particularly AWS and developing Java Applications.
 
 ## 🛠️ Technologies & Tools
 - **Languages**: Java 8/11, SQL, Python (for Data Engineering tasks)
