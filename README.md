@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laxmi Sruthi Susarla</h1>
-<h3 align="center">Experienced software engineer , full-stack developer currently pursuing a Masters in Computer Science at University of North Texas. Passionate about Backend Development</h3>
+<h3 align="center">Experienced software engineer , full-stack developer with a  Masters degree in Computer Science at University of North Texas. Passionate about Backend Development</h3>
 
 - 📫 How to reach me **susarlasruthi1003@gmail.com**
 
